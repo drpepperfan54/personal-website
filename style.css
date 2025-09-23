@@ -3,7 +3,16 @@ img {
 }
 body {
     text-align: center;
-    font-family:'Verdana';
+    font:'Verdana';
     background: rgb(135, 222, 218);
     color: magenta;
+}
+.textbox {
+    background-color:pink;
+    border: 4px solid magenta;
+    padding: 15px;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 10px;
+    color: darkviolet;
 }
