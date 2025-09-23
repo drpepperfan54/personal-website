@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family:'Verdana';
+    background: rgb(135, 222, 218);
+    color: magenta;
+}
